@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  color: blue;
+  background-color: green;
+  width: 80%;
+  height: 40vh;
+}
+
+/*# sourceMappingURL=styles.css.map */
